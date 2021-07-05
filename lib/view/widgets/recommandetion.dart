@@ -99,13 +99,13 @@ class RecomedationViewCard extends StatelessWidget {
                                 text: "4.8",
                               ),
                               Container(
-                                width: 45,
-                                height: 45,
+                                width: 40,
+                                height:40,
                                 decoration: BoxDecoration(
                                     color: Colors.grey,
                                     borderRadius: BorderRadius.circular(50)),
                                 child: Icon(Icons.star_border_rounded,
-                                    color: Colors.white, size: 35),
+                                    color: Colors.white, size: 30),
                               )
                             ],
                           ),
