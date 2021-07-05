@@ -89,7 +89,7 @@ class RecomedationViewCard extends StatelessWidget {
                         alignment: Alignment.topCenter,
                         child: Container(
                           width: horizontal == true
-                              ? MediaQuery.of(context).size.width * 0.55
+                              ? MediaQuery.of(context).size.width * 0.65
                               : MediaQuery.of(context).size.width * 0.80,
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
